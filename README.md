@@ -22,8 +22,6 @@ The objective of this project is to replicate essential frontend features of Fac
 
 ## How to Run the Project
 
-### 1. Prerequisites
-
 1. Install [Node.js](https://nodejs.org/)
 2. Install Expo CLI globally:
   ```bash
