@@ -23,16 +23,14 @@ The objective of this project is to replicate essential frontend features of Fac
 ## How to Run the Project
 
 1. Install [Node.js](https://nodejs.org/)
-2. Install Expo CLI globally:
-  ```bash
 
-3. Install dependencies
+2. Install dependencies
 
    ```bash
    npm install
    ```
 
-4. Start the app
+3. Start the app
 
    ```bash
    npx expo start
